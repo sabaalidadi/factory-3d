@@ -1,0 +1,172 @@
+[
+  {
+    "id": "DPT-001",
+    "name": "واحد کوره قوس الکتریکی",
+    "nameEn": "Electric Arc Furnace",
+    "type": "melting",
+    "manager": "علی رضایی",
+    "employees": 145,
+    "areaM2": 32000,
+    "shiftCount": 3,
+    "budgetUsd": 3200000,
+    "status": "active",
+    "kpi": {
+      "efficiency": 91.2,
+      "availability": 94.1,
+      "safetyScore": 96.4
+    }
+  },
+  {
+    "id": "DPT-002",
+    "name": "واحد ریخته‌گری مداوم",
+    "nameEn": "Continuous Casting",
+    "type": "casting",
+    "manager": "محمد کریمی",
+    "employees": 128,
+    "areaM2": 28500,
+    "shiftCount": 3,
+    "budgetUsd": 2800000,
+    "status": "active",
+    "kpi": {
+      "efficiency": 89.6,
+      "availability": 92.8,
+      "safetyScore": 94.2
+    }
+  },
+  {
+    "id": "DPT-003",
+    "name": "واحد نورد گرم",
+    "nameEn": "Hot Rolling",
+    "type": "rolling",
+    "manager": "رضا محمدی",
+    "employees": 172,
+    "areaM2": 54000,
+    "shiftCount": 3,
+    "budgetUsd": 4100000,
+    "status": "active",
+    "kpi": {
+      "efficiency": 87.3,
+      "availability": 90.6,
+      "safetyScore": 91.8
+    }
+  },
+  {
+    "id": "DPT-004",
+    "name": "واحد نورد میلگرد",
+    "nameEn": "Rebar Rolling",
+    "type": "rolling",
+    "manager": "امیر حسینی",
+    "employees": 156,
+    "areaM2": 41000,
+    "shiftCount": 3,
+    "budgetUsd": 3600000,
+    "status": "active",
+    "kpi": {
+      "efficiency": 88.7,
+      "availability": 92.1,
+      "safetyScore": 93.5
+    }
+  },
+  {
+    "id": "DPT-005",
+    "name": "آماده‌سازی مواد اولیه",
+    "nameEn": "Raw Material Preparation",
+    "type": "raw_material",
+    "manager": "سعید مرادی",
+    "employees": 92,
+    "areaM2": 26000,
+    "shiftCount": 3,
+    "budgetUsd": 1700000,
+    "status": "active",
+    "kpi": {
+      "efficiency": 84.5,
+      "availability": 89.2,
+      "safetyScore": 90.6
+    }
+  },
+  {
+    "id": "DPT-006",
+    "name": "انبار محصول",
+    "nameEn": "Finished Goods Warehouse",
+    "type": "warehouse",
+    "manager": "مهدی کاظمی",
+    "employees": 76,
+    "areaM2": 38000,
+    "shiftCount": 2,
+    "budgetUsd": 900000,
+    "status": "active",
+    "kpi": {
+      "efficiency": 92.4,
+      "availability": 97.1,
+      "safetyScore": 95.3
+    }
+  },
+  {
+    "id": "DPT-007",
+    "name": "تأسیسات و انرژی",
+    "nameEn": "Utilities & Energy",
+    "type": "utilities",
+    "manager": "کیوان صادقی",
+    "employees": 86,
+    "areaM2": 18500,
+    "shiftCount": 2,
+    "budgetUsd": 2400000,
+    "status": "active",
+    "kpi": {
+      "efficiency": 90.8,
+      "availability": 95.7,
+      "safetyScore": 97.1
+    }
+  },
+  {
+    "id": "DPT-008",
+    "name": "تعمیرات مکانیک",
+    "nameEn": "Mechanical Maintenance",
+    "type": "maintenance",
+    "manager": "حسین موسوی",
+    "employees": 112,
+    "areaM2": 12000,
+    "shiftCount": 3,
+    "budgetUsd": 1900000,
+    "status": "active",
+    "kpi": {
+      "efficiency": 86.4,
+      "availability": 88.7,
+      "safetyScore": 92.6
+    }
+  },
+  {
+    "id": "DPT-009",
+    "name": "تعمیرات برق",
+    "nameEn": "Electrical Maintenance",
+    "type": "maintenance",
+    "manager": "پرهام اکبری",
+    "employees": 91,
+    "areaM2": 9500,
+    "shiftCount": 3,
+    "budgetUsd": 1650000,
+    "status": "active",
+    "kpi": {
+      "efficiency": 91.3,
+      "availability": 94.6,
+      "safetyScore": 96.8
+    }
+  },
+  {
+    "id": "DPT-010",
+    "name": "کنترل کیفیت",
+    "nameEn": "Quality Control",
+    "type": "quality",
+    "manager": "نگار احمدی",
+    "employees": 67,
+    "areaM2": 4200,
+    "shiftCount": 2,
+    "budgetUsd": 1100000,
+    "status": "active",
+    "kpi": {
+      "efficiency": 95.2,
+      "availability": 98.1,
+      "safetyScore": 98.7
+    }
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "ENG-001",
+    "date": "2026-10-01",
+    "period": "00-06",
+    "electricityMwh": 486.2,
+    "gasM3": 168400,
+    "waterM3": 5840,
+    "compressedAirNm3": 48500,
+    "peakDemandMW": 94.6,
+    "powerFactor": 0.967,
+    "energyCostUsd": 22480,
+    "renewableSharePercent": 3.2
+  },
+  {
+    "id": "ENG-002",
+    "date": "2026-10-01",
+    "period": "06-12",
+    "electricityMwh": 621.8,
+    "gasM3": 224600,
+    "waterM3": 6920,
+    "compressedAirNm3": 67100,
+    "peakDemandMW": 108.4,
+    "powerFactor": 0.951,
+    "energyCostUsd": 29410,
+    "renewableSharePercent": 3.4
+  },
+  {
+    "id": "ENG-003",
+    "date": "2026-10-01",
+    "period": "12-18",
+    "electricityMwh": 648.4,
+    "gasM3": 238900,
+    "waterM3": 7180,
+    "compressedAirNm3": 72400,
+    "peakDemandMW": 114.2,
+    "powerFactor": 0.948,
+    "energyCostUsd": 30780,
+    "renewableSharePercent": 3.1
+  },
+  {
+    "id": "ENG-004",
+    "date": "2026-10-01",
+    "period": "18-24",
+    "electricityMwh": 592.6,
+    "gasM3": 216300,
+    "waterM3": 6740,
+    "compressedAirNm3": 64300,
+    "peakDemandMW": 105.8,
+    "powerFactor": 0.959,
+    "energyCostUsd": 28140,
+    "renewableSharePercent": 3.8
+  },
+  {
+    "id": "ENG-005",
+    "date": "2026-10-02",
+    "period": "00-06",
+    "electricityMwh": 471.9,
+    "gasM3": 162700,
+    "waterM3": 5690,
+    "compressedAirNm3": 47200,
+    "peakDemandMW": 91.3,
+    "powerFactor": 0.972,
+    "energyCostUsd": 21870,
+    "renewableSharePercent": 4.1
+  },
+  {
+    "id": "ENG-006",
+    "date": "2026-10-02",
+    "period": "06-12",
+    "electricityMwh": 637.1,
+    "gasM3": 231800,
+    "waterM3": 7010,
+    "compressedAirNm3": 69800,
+    "peakDemandMW": 111.7,
+    "powerFactor": 0.946,
+    "energyCostUsd": 30120,
+    "renewableSharePercent": 3.6
+  }
+]

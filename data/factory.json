@@ -1,0 +1,102 @@
+{
+  "factoryId": "STEEL-IR-001",
+  "code": "PSA-SF-01",
+  "name": "مجتمع فولاد پارسا آریا",
+  "nameEn": "Parsa Steel Aria Complex",
+  "industry": "Steel Manufacturing",
+  "factoryType": "Integrated Steel Plant",
+  "establishedYear": 2018,
+  "status": "operational",
+
+  "location": {
+    "country": "Iran",
+    "province": "Isfahan",
+    "city": "Mobarakeh",
+    "industrialZone": "Steel Industrial Zone",
+    "latitude": 32.12,
+    "longitude": 51.47
+  },
+
+  "landArea": {
+    "value": 485000,
+    "unit": "m2"
+  },
+
+  "builtArea": {
+    "value": 312000,
+    "unit": "m2"
+  },
+
+  "productionCapacity": {
+    "annual": 1250000,
+    "unit": "ton"
+  },
+
+  "products": [
+    "Billet",
+    "Rebar",
+    "Steel Coil",
+    "Industrial Steel Bar"
+  ],
+
+  "productionLines": 8,
+
+  "employees": {
+    "total": 1260,
+    "production": 640,
+    "maintenance": 210,
+    "engineering": 145,
+    "quality": 86,
+    "hse": 54,
+    "administration": 125
+  },
+
+  "workingSchedule": {
+    "shiftsPerDay": 3,
+    "hoursPerShift": 8,
+    "workingDaysPerYear": 330
+  },
+
+  "utilities": {
+    "electricityCapacityMW": 118,
+    "averageElectricityConsumptionMW": 82.6,
+    "gasCapacityM3PerHour": 42000,
+    "waterConsumptionM3PerDay": 6850,
+    "compressedAirNm3PerHour": 12500
+  },
+
+  "storage": {
+    "rawMaterialTon": 85000,
+    "finishedProductTon": 100000,
+    "warehouseAreaM2": 38000
+  },
+
+  "kpis": {
+    "oee": 86.7,
+    "yield": 94.3,
+    "availability": 91.8,
+    "qualityRate": 98.4,
+    "scrapRate": 2.8,
+    "downtime": 5.7,
+    "energyIntensity": 642
+  },
+
+  "financial": {
+    "currency": "USD",
+    "monthlyRevenue": 18400000,
+    "monthlyProductionCost": 13250000,
+    "monthlyEnergyCost": 2140000,
+    "monthlyMaintenanceCost": 780000,
+    "inventoryValue": 41600000
+  },
+
+  "certifications": [
+    "ISO 9001",
+    "ISO 14001",
+    "ISO 45001",
+    "ISO 50001"
+  ],
+
+  "lastInspection": "2026-09-28",
+  "lastUpdated": "2026-10-04T06:30:00Z"
+}

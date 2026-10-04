@@ -1,0 +1,128 @@
+[
+  {
+    "id": "MAC-001",
+    "name": "کوره قوس الکتریکی 01",
+    "nameEn": "Electric Arc Furnace 01",
+    "category": "melting",
+    "departmentId": "DPT-001",
+    "manufacturer": "Danieli",
+    "model": "EAF-1200",
+    "year": 2020,
+    "capacityTonPerHour": 72,
+    "powerKw": 58000,
+    "utilizationPercent": 91.4,
+    "oeePercent": 88.7,
+    "status": "running",
+    "healthScore": 94.2,
+    "position": {
+      "x": -12,
+      "y": 0,
+      "z": -5.8
+    }
+  },
+  {
+    "id": "MAC-002",
+    "name": "ماشین ریخته‌گری 01",
+    "nameEn": "Continuous Caster 01",
+    "category": "casting",
+    "departmentId": "DPT-002",
+    "manufacturer": "SMS Group",
+    "model": "CCM-8",
+    "year": 2021,
+    "capacityTonPerHour": 92,
+    "powerKw": 2100,
+    "utilizationPercent": 87.8,
+    "oeePercent": 85.9,
+    "status": "running",
+    "healthScore": 91.4,
+    "position": {
+      "x": -5,
+      "y": 0,
+      "z": -2
+    }
+  },
+  {
+    "id": "MAC-003",
+    "name": "قفسه نورد 01",
+    "nameEn": "Rolling Mill Stand 01",
+    "category": "rolling",
+    "departmentId": "DPT-003",
+    "manufacturer": "Primetals",
+    "model": "RM-850",
+    "year": 2022,
+    "capacityTonPerHour": 105,
+    "powerKw": 4200,
+    "utilizationPercent": 94.2,
+    "oeePercent": 89.7,
+    "status": "running",
+    "healthScore": 96.1,
+    "position": {
+      "x": 2,
+      "y": 0,
+      "z": 3
+    }
+  },
+  {
+    "id": "MAC-004",
+    "name": "کوره پیش‌گرم 01",
+    "nameEn": "Reheating Furnace 01",
+    "category": "heating",
+    "departmentId": "DPT-003",
+    "manufacturer": "Tenova",
+    "model": "RH-600",
+    "year": 2020,
+    "capacityTonPerHour": 85,
+    "powerKw": 1800,
+    "utilizationPercent": 83.5,
+    "oeePercent": 82.4,
+    "status": "running",
+    "healthScore": 86.8,
+    "position": {
+      "x": 7,
+      "y": 0,
+      "z": 3
+    }
+  },
+  {
+    "id": "MAC-005",
+    "name": "دستگاه برش اتوماتیک",
+    "nameEn": "Automatic Cutting Machine",
+    "category": "finishing",
+    "departmentId": "DPT-004",
+    "manufacturer": "Fives",
+    "model": "CUT-500",
+    "year": 2023,
+    "capacityTonPerHour": 75,
+    "powerKw": 630,
+    "utilizationPercent": 78.6,
+    "oeePercent": 80.8,
+    "status": "standby",
+    "healthScore": 97.3,
+    "position": {
+      "x": 10,
+      "y": 0,
+      "z": -3
+    }
+  },
+  {
+    "id": "MAC-006",
+    "name": "دستگاه بسته‌بندی میلگرد",
+    "nameEn": "Rebar Bundling Machine",
+    "category": "packing",
+    "departmentId": "DPT-006",
+    "manufacturer": "Danieli",
+    "model": "BND-400",
+    "year": 2024,
+    "capacityTonPerHour": 60,
+    "powerKw": 250,
+    "utilizationPercent": 68.3,
+    "oeePercent": 76.4,
+    "status": "running",
+    "healthScore": 98.1,
+    "position": {
+      "x": 11,
+      "y": 0,
+      "z": 4
+    }
+  }
+]
