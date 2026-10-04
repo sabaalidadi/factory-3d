@@ -252,7 +252,7 @@ export default function FactoryInfoPanel({
             />
 
             {selectedRecord && (
-              <FurnaceRecordDetails
+              <FactoryRecordDetails
                 record={selectedRecord}
                 onClose={closeRecord}
               />
